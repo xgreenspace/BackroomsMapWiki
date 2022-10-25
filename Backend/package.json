@@ -1,0 +1,11 @@
+{
+  "name": "BackroomsBackend",
+  "version": "1.0",
+  "description": "Backrooms wiki server",
+  "main": "index.js",
+  "author": "Amari West",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
